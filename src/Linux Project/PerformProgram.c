@@ -11,9 +11,10 @@ int main(int argc, char *argv[])
 	printf("Inicio do programa, para seguir presione qualquer tecla.\n");
 	getchar();
 
+	int loopValue = atoi(argv[1]);
+	
 	clock_t begin = clock();
 
-	int loopValue = atoi(argv[1]);
 	function_to_meansure(loopValue);
 
 	clock_t end = clock();
