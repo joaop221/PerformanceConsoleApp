@@ -1,2 +1,2 @@
 # PerformanceConsoleApp
-Trabalha destinado a testar a performasse de execução de um programa.
+Trabalha destinado a testar a performance de execução de um programa.
